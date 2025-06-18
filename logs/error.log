@@ -1,1 +1,3 @@
 2025-06-18 15:01:31 - demo - ERROR - demo.py:61 - 这是错误信息
+2025-06-18 15:38:39 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-18 15:38:53 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'

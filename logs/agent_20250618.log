@@ -13,3 +13,19 @@
 2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:45 - 计算器打开成功
 2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:60 - 操作服务已停止
 2025-06-18 15:09:24 - calculator_demo - INFO - simple_calculator_demo.py:28 - 开始计算器演示
+2025-06-18 15:38:39 - streamlit_app - INFO - streamlit_app.py:50 - 服务初始化完成
+2025-06-18 15:38:39 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-18 15:38:53 - streamlit_app - INFO - streamlit_app.py:50 - 服务初始化完成
+2025-06-18 15:38:53 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-18 15:40:35 - streamlit_app - INFO - streamlit_app.py:50 - 服务初始化完成
+2025-06-18 15:40:37 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开计算器
+2025-06-18 15:40:41 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开文本编辑器
+2025-06-18 15:40:47 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开Safari浏览器
+2025-06-18 15:40:58 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开计算器
+2025-06-18 15:41:00 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开文本编辑器
+2025-06-18 15:41:04 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开Safari浏览器
+2025-06-18 15:41:07 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开Finder
+2025-06-18 15:41:14 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开Finder
+2025-06-18 15:41:17 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开系统偏好设置
+2025-06-18 15:41:28 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开trae
+2025-06-18 15:41:47 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开系统偏好设置
