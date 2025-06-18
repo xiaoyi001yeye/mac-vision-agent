@@ -1,3 +1,4 @@
 2025-06-18 15:01:31 - demo - ERROR - demo.py:61 - 这是错误信息
 2025-06-18 15:38:39 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'
 2025-06-18 15:38:53 - streamlit_app - ERROR - streamlit_app.py:324 - Streamlit应用出错: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-18 16:51:22 - langgraph_vision_agent - ERROR - main_langgraph.py:152 - 命令处理失败: create_initial_state() got an unexpected keyword argument 'user_input'

@@ -1,0 +1,24 @@
+# LangGraph版本的核心依赖包
+
+# 核心LangGraph依赖
+langgraph
+langchain
+langchain-core
+langchain-community
+
+# 基础依赖
+pydantic>=2.0.0
+requests>=2.28.0
+python-dotenv>=0.19.0
+pyyaml>=6.0
+
+# 现有项目核心依赖
+openai>=1.0.0
+anthropic>=0.8.0
+pillow>=9.0.0
+psutil>=5.9.0
+numpy>=1.21.0
+
+# 异步支持
+aiohttp>=3.8.0
+aiofiles>=0.8.0

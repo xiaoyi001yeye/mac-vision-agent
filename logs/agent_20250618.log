@@ -29,3 +29,90 @@
 2025-06-18 15:41:17 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开系统偏好设置
 2025-06-18 15:41:28 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开trae
 2025-06-18 15:41:47 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 打开系统偏好设置
+2025-06-18 16:01:42 - streamlit_app - INFO - streamlit_app.py:50 - 服务初始化完成
+2025-06-18 16:01:53 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 你好
+
+2025-06-18 16:05:22 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: 启动智能体
+
+2025-06-18 16:06:29 - streamlit_app - INFO - streamlit_app.py:72 - 执行命令: open -a 你好
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 16:51:22 - langgraph_vision_agent - ERROR - main_langgraph.py:152 - 命令处理失败: create_initial_state() got an unexpected keyword argument 'user_input'
+2025-06-18 16:51:22 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 16:53:57 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: 命令分析失败: name 'ConfigManager' is not defined
+2025-06-18 16:53:57 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 16:56:21 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: 命令分析失败: 'VLMService' object has no attribute 'analyze_text'
+2025-06-18 16:56:21 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 16:58:44 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: None
+2025-06-18 16:58:44 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 17:00:13 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: 错误处理失败: 'NoneType' object has no attribute 'lower'
+2025-06-18 17:00:13 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': True, 'log_level': 'INFO'}
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 17:01:45 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 测试命令
+2025-06-18 17:01:46 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: None
+2025-06-18 17:01:46 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': False, 'log_level': 'INFO'}
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 17:02:05 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 打开Safari浏览器
+2025-06-18 17:02:06 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: None
+2025-06-18 17:02:06 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': False, 'log_level': 'INFO'}
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 17:03:01 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 打开Safari浏览器
+2025-06-18 17:03:02 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: None
+2025-06-18 17:03:02 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:60 - LangGraph视觉智能体环境设置完成
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:61 - 配置参数: {'max_retries': 3, 'timeout': 30, 'debug': False, 'log_level': 'INFO'}
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:110 - 启动LangGraph视觉智能体
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:76 - 开始初始化LangGraph
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:84 - LangGraph初始化完成
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:116 - LangGraph视觉智能体启动成功
+2025-06-18 17:08:10 - langgraph_vision_agent - INFO - main_langgraph.py:136 - 开始处理命令: 打开Safari浏览器
+2025-06-18 17:08:12 - langgraph_vision_agent - WARNING - main_langgraph.py:146 - 命令执行失败: None
+2025-06-18 17:08:12 - langgraph_vision_agent - INFO - main_langgraph.py:253 - 停止LangGraph视觉智能体
