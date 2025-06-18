@@ -1,0 +1,15 @@
+2025-06-18 14:58:28 - mac_vision_agent - INFO - basic_test.py:97 - 日志模块测试
+2025-06-18 14:59:09 - mac_vision_agent - INFO - basic_test.py:97 - 日志模块测试
+2025-06-18 15:00:12 - test - INFO - simple_test.py:75 - 测试日志消息
+2025-06-18 15:00:32 - test - INFO - simple_test.py:75 - 测试日志消息
+2025-06-18 15:00:50 - test - INFO - simple_test.py:75 - 测试日志消息
+2025-06-18 15:01:31 - demo - INFO - demo.py:59 - 这是信息日志
+2025-06-18 15:01:31 - demo - WARNING - demo.py:60 - 这是警告信息
+2025-06-18 15:01:31 - demo - ERROR - demo.py:61 - 这是错误信息
+2025-06-18 15:01:31 - demo.performance - INFO - demo.py:65 - 模拟操作 - Duration: 1.234s - Status: SUCCESS
+2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:29 - 配置加载完成
+2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:33 - 操作服务初始化完成
+2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:37 - 操作服务启动成功
+2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:45 - 计算器打开成功
+2025-06-18 15:07:56 - test_calculator - INFO - test_calculator.py:60 - 操作服务已停止
+2025-06-18 15:09:24 - calculator_demo - INFO - simple_calculator_demo.py:28 - 开始计算器演示
